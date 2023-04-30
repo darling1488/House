@@ -1,0 +1,293 @@
+body, html, h1, h2, h3, h4, h5{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.dflex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.container {
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+
+.block-1 {
+    background-color: #1F1F1F;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    font-size: 14px;
+    line-height: 121%;
+}
+.container-1 {
+    min-height: 90px;
+}
+.btn-block-1{
+    background-color: #F7F7F7;
+    border-radius: 69px;
+    width: 140px;
+    height: 47px;
+}
+.link-btn1{
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 121%;
+}
+
+
+.block-2 a{
+    font-size: 14px;
+    line-height: 18px;
+    color: black;
+    text-decoration: none;
+}
+.container-2{
+    min-height: 86px;
+}
+.number-block-2{
+    margin-left: 240px;
+    
+}
+.number2-block-2{
+    padding-left: 25px;
+    font-size: 18px;
+}
+.number3-block-2{
+    text-align: right;
+    color: gray;
+    font-size: 14px;
+    
+}
+
+
+.container-3{
+    max-height: 396px;
+}
+.block-3{
+    background-color: #FBFBFB;
+}
+.upravl-komp{
+    padding-top: 46px;
+}
+.upravl-komp-text{
+    padding-top: 14px;
+    width: 382px;
+    height: 66px;
+    font-size: 18px;
+}
+.upravl-komp-btn1{
+    padding-top: 25px;
+}
+.upravl-komp-btn2{
+    width: 334px;
+    height: 84px;
+    border-radius: 68px;
+    background-color: #FF7D04;
+    border: 0cm;
+}
+
+
+.block-4{
+    color: black;
+}
+.container-4{
+    max-height: 669px;
+}
+.onas{
+    margin-top: 62px;
+}
+.block-4-txt-1{
+    margin-top: 33px;
+    width: 475px;
+    height: 50px;
+    font-size: 16px;
+    line-height: 25px;
+}
+.block-4-txt-2{
+    width: 572px;
+    height: 242px;
+    font-size: 15px;
+    line-height: 146.9%;
+    margin-top: 16px;
+}
+.block-4-btn-1{
+    margin-top: 34px;
+}
+.block-4-btn-2{
+    width: 518px;
+    height: 84px;
+    background-color: #FF7D04;
+    border-radius: 68px;
+    border: 0cm;
+}
+.column-1{
+    margin-left: 99px;
+}
+.column-2{
+    margin-left: 117px;
+}
+.column-1-1{
+    margin-top: 110px;
+}
+.column-1-2{
+    margin-top: 75px;
+}
+.column-2-1{
+    margin-top: 150px;
+}
+.column-2-2{
+    margin-top: 22px;
+}
+.bl-4-txt-1{
+    width: 102px;
+    height: 103px;
+    color: #FF7D04;
+    font-size: 85px;
+    line-height: 121%;
+}
+.bl-4-txt-2{
+    font-size: 16px;
+    line-height: 25px;
+}
+.bl-4-txt-3{
+    width: 204px;
+    height: 103px;
+    font-size: 85px;
+    line-height: 121%;
+    color: #FF7D04;
+}
+
+
+.block-5{
+    background-color: pink;
+    margin-top: 72px;
+}
+.container-5{
+    max-height: 570px;
+    min-height: 570px;
+    
+}
+
+
+
+
+.block-6{
+    background-color: yellow;
+    margin-top: 60px;
+}
+.container-6{
+    max-height: 683px;
+    min-height: 683px;
+}
+.zagolovok-bl-6{
+    width: 463px;
+    height: 76px;
+}
+.obj-txt1{
+    font-size: 18px;
+    line-height: 17px;
+    line-height: 93%;
+    margin-left: 33px;
+    text-align: Left;
+    min-width: 147px;
+    max-height: 17px;
+}
+.obj-txt2{
+    font-size: 16px;
+    line-height: 21px;
+    line-height: 100%;
+    text-align: Left;
+    margin-left: 33px;
+    width: 138px;
+    height: 42px;
+}
+.colums1-bl-6{
+
+}
+.colums2-bl-6{
+    
+}
+.colums3-bl-6{
+    margin-left: 52px;
+}
+.colums4-bl-6{
+    margin-left: 33px;
+}
+.colums5-bl-6{
+    margin-left: 75px;
+}
+.obj3 .obj5 .obj7 .obj4 .obj6 .obj8{
+    padding-top: 57px;
+}
+
+
+
+
+
+.block-7{
+    background-image: url(img/map.png);
+}
+.container-7{
+    min-height: 588px;
+}
+.box{
+    width: 498px;
+    height: 505px;
+    background-color: white;
+}
+.box-items{
+    margin-left: 58px;
+    margin-top: 40px;
+}
+.btn-bl-7{
+    width: 334px;
+    height: 84px;
+    background-color: #FF7D04;
+    border-radius: 69px;
+    border: 0cm;
+    margin-top: 23px;
+}
+
+
+
+.block-8{
+    background-color: #282828;
+    margin-top: 135px;
+}
+.container-8{
+    min-height: 214px;
+}
+.block-8 a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 16px;
+}
+.txt1-bl-7{
+    font-size: 20px;
+    line-height: 19px;
+    line-height: 93%;
+    text-align: Left;
+    text-transform: uppercase;
+}
+.txt2-bl-7{
+    font-size: 16px;
+    line-height: 15px;
+    line-height: 93%;
+    text-align: Left;
+}
+
+.sim-slider-list{
+    padding: 0px 0px 0px 10px;
+    display: inline-block;
+
+
+}
+
+
+
+
